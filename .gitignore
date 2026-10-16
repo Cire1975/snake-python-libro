@@ -1,0 +1,10 @@
+# File temporanei di Python e degli editor
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
